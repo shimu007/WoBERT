@@ -38,7 +38,7 @@ pip install bert4keras==0.8.8
 Bibtex：
 
 ```tex
-@techreport{zhuiyipretrainedmodels,
+@techreport{zhuiyiwobert,
   title={WoBERT: Word-based Chinese BERT model - ZhuiyiAI},
   author={Jianlin Su},
   year={2020},
