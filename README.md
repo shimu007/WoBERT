@@ -20,9 +20,9 @@ pip install bert4keras==0.8.8
 
 ## 下载
 
-- **WoBERT**: [chinese_wobert_L-12_H-768_A-12.zip](https://pan.baidu.com/s/1BrdFSx9_n1q2uWBiQrpalw), 提取码: kim2
-- **WoNEZHA**: [chinese_wonezha_L-12_H-768_A-12.zip](https://pan.baidu.com/s/1ABKwUuIiMEEsRXxxlbyKmw), 提取码: qgkq
-- **WoBERT<sup>+</sup>**: [chinese_wobert_plus_L-12_H-768_A-12.zip](https://pan.baidu.com/s/1Ltq3ltQsyBCj56zoOOvI9A), 提取码: aedw
+- **WoBERT**: [chinese_wobert_L-12_H-768_A-12.zip](https://open.zhuiyi.ai/release/nlp/models/zhuiyi/chinese_wobert_L-12_H-768_A-12.zip)
+- **WoNEZHA**: [chinese_wonezha_L-12_H-768_A-12.zip](https://open.zhuiyi.ai/release/nlp/models/zhuiyi/chinese_wonezha_L-12_H-768_A-12.zip)
+- **WoBERT<sup>+</sup>**: [chinese_wobert_plus_L-12_H-768_A-12.zip](https://open.zhuiyi.ai/release/nlp/models/zhuiyi/chinese_wobert_plus_L-12_H-768_A-12.zip)
 
 ## 评测
 
